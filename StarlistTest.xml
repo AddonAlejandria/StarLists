@@ -8,9 +8,8 @@
       <date>04.01.2013</date>
       <credits>Addon Alejandria</credits>
     </items_info>
-<item> 
-    <title>EXTINF:-1,-----SPAIN-----</title>
-    <urlsolve>http://sl0.ddns.me:8000/live/namik77/77namik/135943.m3u8
+<item>  <title>EXTINF:-1,ES: 24 Horas
+</title><urlsolve>http://sl0.ddns.me:8000/live/namik77/77namik/14469.m3u8
 </urlsolve></item>
-
+    
 </items>
